@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>fileTriggers</key>
+        <dict>
+            <key>.au</key>
+            <string>..\sample_app\.autotest</string>
+            <key>contac</key>
+            <string>..\sample_app\app\views\pages\contact.html.erb</string>
+            <key>foot</key>
+            <string>..\sample_app\app\views\layouts\_footer.html.erb</string>
+            <key>gem</key>
+            <string>..\sample_app\Gemfile</string>
+            <key>git</key>
+            <string>.gitignore</string>
+            <key>home</key>
+            <string>..\sample_app\app\views\pages\home.html.erb</string>
+            <key>page</key>
+            <string>..\sample_app\spec\controllers\pages_controller_spec.rb</string>
+            <key>re</key>
+            <string>..\sample_app\README</string>
+            <key>rou</key>
+            <string>..\sample_app\config\routes.rb</string>
+        </dict>
+    </dict>
+</plist>
